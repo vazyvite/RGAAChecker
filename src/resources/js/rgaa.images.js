@@ -1,9 +1,9 @@
 (function () {
     "use strict";
 
-    window.rgaa.image = {
-        test: function () {
+    window._rgaa.components.push({
+        init: function () {
             alert ("ok");
         }
-    };
+    });
 }());
