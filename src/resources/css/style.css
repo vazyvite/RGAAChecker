@@ -1,0 +1,13 @@
+#rgaaUI {
+  position: absolute;
+  top: 1em;
+  right: 1em;
+  z-index: 1000;
+  -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+          box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+  height: 2em;
+  width: 50em;
+  background-color: #FFF;
+  color: #000;
+}
+/*# sourceMappingURL=style.css.map */
